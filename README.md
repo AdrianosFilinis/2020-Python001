@@ -2,5 +2,5 @@
 
 # Learning Python from scratch
 
-*** Python with friends ***
+***Python with friends***
 
